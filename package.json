@@ -9,7 +9,8 @@
     "react-router-dom": "6.0.0",
     "framer-motion": "latest",
     "lucide-react": "latest",
-    "components": "latest"
+    "components": "latest",
+    "PropTypes": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

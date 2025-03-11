@@ -6,7 +6,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "latest",
-    "react-router-dom": "6.0.0"
+    "react-router-dom": "6.0.0",
+    "framer-motion": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

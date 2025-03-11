@@ -7,7 +7,8 @@
     "react-dom": "^18.0.0",
     "react-scripts": "latest",
     "react-router-dom": "6.0.0",
-    "framer-motion": "latest"
+    "framer-motion": "latest",
+    "lucide-react": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

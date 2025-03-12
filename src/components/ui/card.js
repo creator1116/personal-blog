@@ -13,7 +13,7 @@ const Card = ({ title, description, imageUrl }) => {
   );
 };
 
-Card.propTypes = {
+Card.PropTypes = {
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
   imageUrl: PropTypes.string,

@@ -1,8 +1,8 @@
 import { useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
+import { Card, CardContent } from "src/components/ui/card";
+import { Button } from "src/components/ui/button";
+import { Input } from "src/components/ui/input";
+import { Textarea } from "src/components/ui/textarea";
 import { motion } from "framer-motion";
 import { Code, Terminal, Lock, MessageCircle } from "lucide-react";
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
